@@ -1,4 +1,2 @@
-0.5.0
-Racks go up with /gunrack: staff inside their own shop, house owners at home.
-Only jobs with sell = true can price and sell guns.
-Guns that don't load in after a restart are built again.
+1.0.0
+First release.
