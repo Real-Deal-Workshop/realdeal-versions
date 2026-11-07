@@ -1,2 +1,4 @@
 1.0.0
 First release.
+1.0.1
+Removed the Long Counter Case: its glass shows frosted indoors.
