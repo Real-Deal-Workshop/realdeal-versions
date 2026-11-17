@@ -1,0 +1,2 @@
+1.0.0
+First release: watchmaker trade with photoreal cases, dials and hands, placeable benches, RSG + VORP.
