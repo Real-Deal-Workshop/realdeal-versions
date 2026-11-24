@@ -1,0 +1,2 @@
+1.0.0
+First release: gunsmith bench with every part and finish, saved designs, names and serials, wood tints in hand, Shop Office. RSG Core or VORP Core.
