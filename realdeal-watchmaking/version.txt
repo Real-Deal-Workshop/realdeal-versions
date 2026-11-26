@@ -1,2 +1,4 @@
+1.0.1
+Addition: show nearby players your watch, change distance or turn off and on in config.
 1.0.0
 First release: watchmaker trade with photoreal cases, dials and hands, placeable benches, RSG + VORP.
