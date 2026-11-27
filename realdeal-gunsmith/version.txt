@@ -1,3 +1,5 @@
+1.0.2
+Bug Fixes
 1.0.1
 Addition: weapon damage per gun on VORP, set it in Config.WeaponDamage (copy the WEAPON DAMAGE block into your config.lua).
 1.0.0
